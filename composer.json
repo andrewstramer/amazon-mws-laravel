@@ -22,5 +22,5 @@
             "Sonnenglas\\AmazonMws\\": "src"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
